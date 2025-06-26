@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Pengenalan Uji Hipotesis dan Central Limit Theorem"
+title: Pengenalan Uji Hipotesis dan Central Limit Theorem
 date: 2025-06-26
-categories: [statistik, konsep-dasar]
-tags: [statistik, uji-hipotesis, central-limit-theorem, clt, inferensi, tailed test]
+description: Penjelasan tentang distribusi data dalam statistik, termasuk jenis-jenis distribusi dan bagaimana menginterpretasikannya.
+categories: [statistik]
+tags: [distribusi data, analisis data]
 ---
+
 
 Statistik inferensial membantu kita mengambil keputusan atau membuat kesimpulan berdasarkan data. Dua konsep penting yang mendasari banyak analisis statistik adalah **Uji Hipotesis** dan **Central Limit Theorem (CLT)**.
 
