@@ -10,11 +10,11 @@ Statistik inferensial membantu kita mengambil keputusan atau membuat kesimpulan 
 
 ---
 
-## 📌 Apa itu Uji Hipotesis?
+## Apa itu Uji Hipotesis?
 
 **Uji Hipotesis** adalah prosedur statistik untuk mengevaluasi asumsi atau klaim tentang populasi berdasarkan data sampel.
 
-### 📖 Langkah-langkah Uji Hipotesis:
+### Langkah-langkah Uji Hipotesis:
 
 1. **Tentukan Hipotesis Nol ($H_0$)**: klaim awal yang ingin diuji.  
 2. **Tentukan Hipotesis Alternatif ($H_1$)**: klaim yang akan diterima jika $H_0$ ditolak.  
@@ -37,7 +37,7 @@ t.test(data, mu = 70)  # uji t satu sampel
 
 ---
 
-## 🔁 One-Tailed vs Two-Tailed Test
+## One-Tailed vs Two-Tailed Test
 
 ### 1. **Two-Tailed Test**
 
